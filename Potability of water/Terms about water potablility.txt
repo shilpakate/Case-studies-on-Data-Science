@@ -1,0 +1,33 @@
+What is Potable Water
+
+Drinking water, also known as potable water, is water that is safe to drink or use for food preparation. The amount of drinking water required to maintain good health varies, and depends on physical activity level, age, health-related issues, and environmental conditions.Typically in developed countries, tap water meets drinking water quality standards, even though only a small proportion is actually consumed or used in food preparation. Other typical uses include washing, toilets, and irrigation. Greywater may also be used for toilets or irrigation. Its use for irrigation however may be associated with risks.
+
+Contaiments in Water
+
+The Safe Drinking Water Act defines the term "contaminant" as meaning any physical, chemical, biological, or radiological substance or matter in water. Therefore, the law defines "contaminant" very broadly as being anything other than water molecules. Drinking water may reasonably be expected to contain at least small amounts of some contaminants. Some drinking water contaminants may be harmful if consumed at certain levels in drinking water while others may be harmless. The presence of contaminants does not necessarily indicate that the water poses a health risk. Only a small number of the universe of contaminants as defined above are listed on the Contaminant Candidate List (CCL). The CCL serves as the first level of evaluation for unregulated drinking water contaminants that may need further investigation of potential health effects and the levels at which they are found in drinking water.
+
+The following are general categories of drinking water contaminants
+
+Physical
+Chemical
+Biological
+Radiological
+How is Water made potable for drinking?
+
+Water purification is the process of removing undesirable chemicals, biological contaminants, suspended solids, and gases from water. The goal is to produce water fit for specific purposes. Most water is purified and disinfected for human consumption (drinking water), but water purification may also be carried out for a variety of other purposes, including medical, pharmacological, chemical, and industrial applications. The methods used include physical processes such as filtration, sedimentation, and distillation; biological processes such as slow sand filters or biologically active carbon; chemical processes such as flocculation and chlorination; and the use of electromagnetic radiation such as ultraviolet light.
+
+Facts by WHO
+
+According to a 2007 World Health Organization (WHO) report, 1.1 billion people lack access to an improved drinking water supply; 88% of the 4 billion annual cases of diarrheal disease are attributed to unsafe water and inadequate sanitation and hygiene, while 1.8 million people die from diarrheal disease each year. The WHO estimates that 94% of these diarrheal disease cases are preventable through modifications to the environment, including access to safe water. Simple techniques for treating water at home, such as chlorination, filters, and solar disinfection, and for storing it in safe containers could save a huge number of lives each year. Reducing deaths from waterborne diseases is a major public health goal in developing countries.
+
+Columns Discription
+ph: pH of 1. water (0 to 14).
+Hardness: Capacity of water to precipitate soap in mg/L.
+Solids: Total dissolved solids in ppm.
+Chloramines: Amount of Chloramines in ppm.
+Sulfate: Amount of Sulfates dissolved in mg/L.
+Conductivity: Electrical conductivity of water in µS/cm.
+Organic_carbon: Amount of organic carbon in ppm.
+Trihalomethanes: Amount of Trihalomethanes in µg/L.
+Turbidity: Measure of light emiting property of water in NTU.
+Potability: Indicates if water is safe for human consumption. Potable -1 and Not potable -0
